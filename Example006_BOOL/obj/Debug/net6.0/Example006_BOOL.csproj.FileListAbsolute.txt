@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\bin\Debug\net6.0\Example006_BOOL.exe
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\bin\Debug\net6.0\Example006_BOOL.deps.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\bin\Debug\net6.0\Example006_BOOL.runtimeconfig.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\bin\Debug\net6.0\Example006_BOOL.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\bin\Debug\net6.0\Example006_BOOL.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\Example006_BOOL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\Example006_BOOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\Example006_BOOL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\Example006_BOOL.AssemblyInfo.cs
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\Example006_BOOL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\Example006_BOOL.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\refint\Example006_BOOL.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\Example006_BOOL.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\Example006_BOOL.genruntimeconfig.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example006_BOOL\obj\Debug\net6.0\ref\Example006_BOOL.dll
