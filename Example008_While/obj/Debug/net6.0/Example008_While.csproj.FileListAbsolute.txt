@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\bin\Debug\net6.0\Example008_While.exe
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\bin\Debug\net6.0\Example008_While.deps.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\bin\Debug\net6.0\Example008_While.runtimeconfig.json
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\bin\Debug\net6.0\Example008_While.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\bin\Debug\net6.0\Example008_While.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\Example008_While.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\Example008_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\Example008_While.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\Example008_While.AssemblyInfo.cs
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\Example008_While.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\Example008_While.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\refint\Example008_While.dll
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\Example008_While.pdb
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\Example008_While.genruntimeconfig.cache
+C:\Users\user\Desktop\Мое обучение\Git repositories\C#NewCode\Examples\Example008_While\obj\Debug\net6.0\ref\Example008_While.dll
