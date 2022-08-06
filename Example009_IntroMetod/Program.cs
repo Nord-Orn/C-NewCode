@@ -1,9 +1,9 @@
-﻿int Max(int arg1, int arg2, int arg3)
+﻿int Max(int arg1, int arg2, int arg3) //Функция с именем Max
 {
-    int result = arg1;
-    if (arg2 > arg1) result = arg2;
-    if (arg3 > arg2) result = arg3;
-    return result;     
+    int result = arg1;                 //Тело функции
+    if (arg2 > arg1) result = arg2;     //Тело функции
+    if (arg3 > arg2) result = arg3;    //Тело функции
+    return result;     //Не выводимый результат функции
 }
 
 int a = 3, b = 160, c = 8,
